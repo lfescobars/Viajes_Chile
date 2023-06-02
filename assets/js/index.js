@@ -1,4 +1,4 @@
-Cambiar color de barra de navegación entre transparente y dark
+// Cambiar color de barra de navegación entre transparente y dark
  var nav = document.querySelector("nav");
  window.addEventListener("scroll", function () {
    if (window.pageYOffset > 173) {
@@ -8,7 +8,7 @@ Cambiar color de barra de navegación entre transparente y dark
    }
  });
  
- Hacer smooth-scroll
+//  Hacer smooth-scroll
  $(function () {
      $("a").click(function (event) {
        if (this.hash !== "") {
