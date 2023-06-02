@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    background-size: cover;
+    color: white;
+}
+
+body a{
+    color: white;
+    text-decoration: none;
+}
+
+.encabezado-quienes_somos{
+    background-color: deepskyblue;
+
+}
+
+.fa-solid{
+    background-color: deepskyblue;
+    color: white;
+}
+
+.border_azul {
+    border-bottom-width: 1;
+    border-bottom-color: deepskyblue;
+    border-bottom-style: solid;
+}
+
+#img_prueba{
+    width: auto;
+}
+
+.card-img-top{
+    max-height: 190px
+}
+.card-body{
+    background-color: deepskyblue;
+    color: white;
+}
+
+#footer_align{
+    vertical-align: middle;
+}
+
+footer{
+    background-color: deepskyblue;
+    color: white;
+}
+
+.logo_footer{
+    vertical-align: middle;
+}
+
+.fa{
+    height: 100%;
+}
